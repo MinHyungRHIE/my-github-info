@@ -18,6 +18,7 @@
 - [MinHyungRHIE/Playground.JS](https://github.com/MinHyungRHIE/Playground.JS)<br>
 - [MinHyungRHIE/Playground.Shell-Script](https://github.com/MinHyungRHIE/Playground.Shell-Script)<br>
 - [MinHyungRHIE/Playground.Github](https://github.com/MinHyungRHIE/Playground.Github)<br>
+- [MinHyungRHIE/Playground.JavaSE8](https://github.com/MinHyungRHIE/Playground.JavaSE8)<br>
 
 
 <hr>
@@ -55,7 +56,7 @@
 
 ## Lecture
 
-- [EMPTY]()<br>
+- [MinHyungRHIE/Lecture.Java](https://github.com/MinHyungRHIE/Lecture.Java)<br>
 
 <hr>
 
