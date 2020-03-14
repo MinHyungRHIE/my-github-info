@@ -27,7 +27,7 @@
 - [MinHyungRHIE/EduRecord.BlockChain-Ethereum-Beginning](https://github.com/MinHyungRHIE/EduRecord.BlockChain-Ethereum-Beginning)<br>
 - [MinHyungRHIE/EduRecord.BlockChain-Hyperledger-Beginning](https://github.com/MinHyungRHIE/EduRecord.BlockChain-Hyperledger-Beginning)<br>
 - [MinHyungRHIE/EduRecord.BlockChain-Business](https://github.com/MinHyungRHIE/EduRecord.BlockChain-Business)<br>
-
+- [MinHyungRHIE/EduRecord.English](https://github.com/MinHyungRHIE/EduRecord.English)<br>
 
 
 <hr>
@@ -65,3 +65,7 @@
 - [EMPTY]()<br>
 
 <hr>
+
+## 생활루틴 관리
+
+- [MinHyungRHIE/RoutineManagement](https://github.com/MinHyungRHIE/RoutineManagement)<br>
