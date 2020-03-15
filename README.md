@@ -65,7 +65,3 @@
 - [EMPTY]()<br>
 
 <hr>
-
-## 생활루틴 관리
-
-- [MinHyungRHIE/RoutineManagement](https://github.com/MinHyungRHIE/RoutineManagement)<br>
