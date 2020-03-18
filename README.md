@@ -28,6 +28,7 @@
 - [MinHyungRHIE/EduRecord.BlockChain-Hyperledger-Beginning](https://github.com/MinHyungRHIE/EduRecord.BlockChain-Hyperledger-Beginning)<br>
 - [MinHyungRHIE/EduRecord.BlockChain-Business](https://github.com/MinHyungRHIE/EduRecord.BlockChain-Business)<br>
 - [MinHyungRHIE/EduRecord.English](https://github.com/MinHyungRHIE/EduRecord.English)<br>
+- [MinHyungRHIE/EduRecord.TechInfo](https://github.com/MinHyungRHIE/EduRecord.TechInfo)<br>
 
 
 <hr>
