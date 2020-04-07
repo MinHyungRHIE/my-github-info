@@ -19,6 +19,8 @@
 - [MinHyungRHIE/Playground.Shell-Script](https://github.com/MinHyungRHIE/Playground.Shell-Script)<br>
 - [MinHyungRHIE/Playground.Github](https://github.com/MinHyungRHIE/Playground.Github)<br>
 - [MinHyungRHIE/Playground.JavaSE8](https://github.com/MinHyungRHIE/Playground.JavaSE8)<br>
+- [MinHyungRHIE/Playground.Python](https://github.com/MinHyungRHIE/Playground.Python)<br>
+- [MinHyungRHIE/Playground.HTML-CSS](https://github.com/MinHyungRHIE/Playground.HTML-CSS)<br>
 
 
 <hr>
