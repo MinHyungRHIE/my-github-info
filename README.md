@@ -60,7 +60,7 @@
 
 ## Lecture
 
-- [MinHyungRHIE/Lecture.Java](https://github.com/MinHyungRHIE/Lecture.Java)<br>
+- [MinHyungRHIE/Lecture.DogDream-Java](https://github.com/MinHyungRHIE/Lecture.DogDream-Java)<br>
 
 <hr>
 
