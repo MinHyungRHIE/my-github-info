@@ -54,7 +54,7 @@
 
 ## Storage
 
-- [EMPTY]()<br>
+- [MinHyungRHIE/Storage.IDE-Shortcut](https://github.com/MinHyungRHIE/Storage.IDE-Shortcut)<br>
 
 <hr>
 
