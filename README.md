@@ -21,6 +21,7 @@
 - [MinHyungRHIE/Playground.JavaSE8](https://github.com/MinHyungRHIE/Playground.JavaSE8)<br>
 - [MinHyungRHIE/Playground.Python](https://github.com/MinHyungRHIE/Playground.Python)<br>
 - [MinHyungRHIE/Playground.HTML-CSS](https://github.com/MinHyungRHIE/Playground.HTML-CSS)<br>
+- [MinHyungRHIE/Playground.AI](https://github.com/MinHyungRHIE/Playground.AI)<br>
 
 
 <hr>
