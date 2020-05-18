@@ -44,6 +44,7 @@
 
 - [MinHyungRHIE/Project.HLF](https://github.com/MinHyungRHIE/Project.HLF)<br>
 - [MinHyungRHIE/Project.Pretzel](https://github.com/MinHyungRHIE/Project.Pretzel)<br>
+- [MinHyungRHIE/Project.DeepFakeDetection](https://github.com/MinHyungRHIE/Project.DeepFakeDetection)<br>
 
 
 <hr>
