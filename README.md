@@ -46,6 +46,7 @@
 - [MinHyungRHIE/Project.Pretzel](https://github.com/MinHyungRHIE/Project.Pretzel)<br>
 - [MinHyungRHIE/Project.DeepFakeDetection](https://github.com/MinHyungRHIE/Project.DeepFakeDetection)<br>
 - [MinHyungRHIE/Project.FlowerRecognition](https://github.com/MinHyungRHIE/Project.FlowerRecognition)<br>
+- [MinHyungRHIE/Project.PC-Room](https://github.com/MinHyungRHIE/Project.PC-Room)<br>
 
 <hr>
 
