@@ -17,6 +17,9 @@
 ## Private
 - [MinHyungRHIE/Private.Hyperledger-Indy](https://github.com/MinHyungRHIE/Private.Hyperledger-Indy)<br>
 
+
+<hr>
+
 ## Playground
 - [MinHyungRHIE/Playground.Java](https://github.com/MinHyungRHIE/Playground.Java)<br>
 - [MinHyungRHIE/Playground.JS](https://github.com/MinHyungRHIE/Playground.JS)<br>
