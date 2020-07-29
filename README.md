@@ -3,6 +3,7 @@
 
 | Index | Summary | Describe |
 |:---:|:---:|:---:|
+| `Private` | 비즈니스 | `나만의 비밀 소스` **기밀** |
 | `Playground` | 기술 연습장 | `그냥 마구잡이로 닥치는 데로 코딩한` **연습장** |
 | `EduRecord` | 교육  필기장 | `세미나, 교육, 포럼 등에 참석 중에 적은` **필기장** |
 | `Project` | 프로젝트 | `습득한 기술을 기반으로 한번 만들어 보는` **작품** |
@@ -10,8 +11,11 @@
 | `Storage` | 코드 창고 |`요긴하게 재사용될 만한 코드를 모은` **수집장**  |
 | `Lecture` | 기술 강의장 |`체계화된 소스코드와 정리된 내용의` **기술 강의** |
 | `Algorithm` | 코딩테스트 |`특정 언어의 코딩테스트 결과물을 모은` **시험장** |
-|  | 나의 근황과 소식 | blog.naver.com/quotia72  |
+|  | 나의 근황과 소식 | blog.naver.com/quotia72 |
 <hr>
+
+## Private
+- [MinHyungRHIE/Private.Hyperledger-Indy](https://github.com/MinHyungRHIE/Private.Hyperledger-Indy)<br>
 
 ## Playground
 - [MinHyungRHIE/Playground.Java](https://github.com/MinHyungRHIE/Playground.Java)<br>
