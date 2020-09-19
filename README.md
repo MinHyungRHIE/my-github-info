@@ -44,6 +44,7 @@
 - [RHIE-coder/EduRecord.English](https://github.com/RHIE-coder/EduRecord.English)<br>
 - [RHIE-coder/EduRecord.TechInfo](https://github.com/RHIE-coder/EduRecord.TechInfo)<br>
 - [RHIE-coder/EduRecord.SQLD](https://github.com/RHIE-coder/EduRecord.SQLD)<br>
+- [RHIE-coder/EduRecord.Industrial-Security](https://github.com/RHIE-coder/EduRecord.Industrial-Security)<br>
 
 
 <hr>
