@@ -78,7 +78,7 @@
 
 ## Lecture
 
-- [RHIE-coder/Lecture.DogDream-Java](https://github.com/RHIE-coder/Lecture.DogDream-Java)<br>
+- [RHIE-coder/Lecture.Java](https://github.com/RHIE-coder/Lecture.Java)<br>
 
 <hr>
 
