@@ -78,7 +78,7 @@
 
 ## Lecture
 
-- [Lecture.Prepare.Java/settings](https://github.com/RHIE-coder/Lecture.Prepare.Java/settings)<br>
+- [Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
 
 <hr>
 
