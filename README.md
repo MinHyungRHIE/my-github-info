@@ -1,4 +1,4 @@
-# 💘나의 깃허브  관리 방식
+# 💘My Github Repositories
 **OUTLINE**
 
 | Index | Summary | Describe |
