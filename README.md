@@ -82,6 +82,7 @@
 ## Lecture
 
 - [RHIE-coder/Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
+- [RHIE-coder/Lecture.computer-programming-practice](https://github.com/RHIE-coder/Lecture.computer-programming-practice)<br>
 
 <hr>
 
